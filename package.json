@@ -1,0 +1,25 @@
+{
+  "name": "rx-event-subject",
+  "version": "0.0.1",
+  "description": "rx subject helper for react event",
+  "main": "lib/index.js",
+  "types": "lib/index.d.js",
+  "scripts": {
+    "test": "tsc"
+  },
+  "files": [
+    "lib/**",
+    "README.md"
+  ],
+  "keywords": [
+    "rx",
+    "reactive",
+    "react",
+    "stream"
+  ],
+  "author": "sliv <sliv.mbp@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "rxjs": "^5.4.1"
+  }
+}
