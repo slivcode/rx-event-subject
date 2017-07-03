@@ -1,6 +1,6 @@
 {
   "name": "rx-event-subject",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "rx subject helper for react event",
   "main": "lib/index.js",
   "types": "lib/index.d.js",
